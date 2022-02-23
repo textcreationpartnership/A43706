@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Bride's Church, on St. Cæcilia's Day, Nov. 22, 1685 being the anniversary feast of the lovers of musick / by Charles Hickman ...</title>
+            <author>Hickman, Charles, 1648-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43706</idno>
+            <idno type="STC">Wing H1903</idno>
+            <idno type="STC">ESTC R18559</idno>
+            <idno type="EEBO-CITATION">13046171</idno>
+            <idno type="OCLC">ocm 13046171</idno>
+            <idno type="VID">96922</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96922)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Bride's Church, on St. Cæcilia's Day, Nov. 22, 1685 being the anniversary feast of the lovers of musick / by Charles Hickman ...</title>
+                  <author>Hickman, Charles, 1648-1713.</author>
+               </titleStmt>
+               <extent>[6], 22, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: A sermon on St. Cæcilia's Day.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Music in churches.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96922:1"/>
+            <pb facs="tcp:96922:1"/>
+            <p>A SERMON Preached at St. <hi>Bride</hi>'s Church, ON St. CAECILIA'S Day, <hi>Nov.</hi> 22. 1695. Being the <hi>Anniverſary Feaſt of the Lovers of Muſick.</hi>
+            </p>
+            <p>By CHARLES HICKMAN, D. D. Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>Publiſhed at the Requeſt of the Stewards.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Walther Kettelby,</hi> at the <hi>Biſhops Head</hi> in St. <hi>Paul</hi>'s Church-yard, 1696.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96922:2"/>
+            <pb facs="tcp:96922:2"/>
+            <head>TO THE STEWARDS OF St. <hi>Caecilia</hi>'s Feaſt.
+<list>
+                  <item>
+                     <hi>The Honourable Lord</hi> Drummond.</item>
+                  <item>
+                     <hi>Sir</hi> Tho. Murray <hi>Baronet.</hi>
+                  </item>
+                  <item>J. Crauford <abbr>
+                        <hi>Eſq</hi>
+                     </abbr>
+                  </item>
+                  <item>James Harris <abbr>
+                        <hi>Eſq</hi>
+                     </abbr>
+                  </item>
+                  <item>Phil. Howard <abbr>
+                        <hi>Eſq</hi>
+                     </abbr>
+                  </item>
+                  <item>Archibald Hutch<g ref="char:EOLhyphen"/>inſon <abbr>
+                        <hi>Eſq</hi>
+                     </abbr>
+                  </item>
+                  <item>Ant. Robert <hi>Gent.</hi>
+                  </item>
+                  <item>John Bowman <hi>Gen.</hi>
+                  </item>
+               </list>
+            </head>
+            <opener>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>SINCE you have been ſo hard upon me, as to make me Preach, without allow<g ref="char:EOLhyphen"/>ing me time to Think; and harder yet, to make me Publiſh my undigeſted Thoughts; I hope
+<pb facs="tcp:96922:3"/>
+the World will pardon this im<g ref="char:EOLhyphen"/>perfect Diſcourſe, and look upon it, not as a <hi>Compoſition</hi> but a <hi>Voluntary.</hi> But I know not how you can pardon me for expoſing your Names before it: nor yet how you can condemn me for taking this innocent Re<g ref="char:EOLhyphen"/>venge. All that I can ſay to pacify you is, that I am ſorry there are ſo many Faults in this Diſcourſe for you to anſwer for; and all that I can do to acquit you, is to declare, that as you importun'd me to Publiſh it, ſo you were importun'd to it by others; and if it does not an<g ref="char:EOLhyphen"/>ſwer
+<pb facs="tcp:96922:3"/>
+their Expectations now, upon ſecond Thoughts; they have the liberty to ſay that the Ser<g ref="char:EOLhyphen"/>mon is not <hi>Good;</hi> but their ſaying ſo is an Argument that it is <hi>True;</hi> That the excellent Muſick which they heard work'd upon their Affections, and rai<g ref="char:EOLhyphen"/>ſed their Good Nature above their Judgment, and made them approve that in the Pul<g ref="char:EOLhyphen"/>pit which they now diſlike from the Preſs: ſo that in truth, it was not the Sermon that com<g ref="char:EOLhyphen"/>mended the Muſick, but the Muſick ſet off the Sermon: for want of which Charm to Guard
+<pb facs="tcp:96922:4"/>
+it, it now comes into the World Naked and Expoſed, like <hi>Orpheus</hi> without his Harp; and like him muſt expect to be pull<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in pieces, unleſs you pleaſe to Patronize it for the ſake of its <hi>Subject,</hi> and allow it ſome Favour too upon account of its <hi>Author;</hi> who has run all this Danger, only to ſhow how much he is</p>
+            <closer>
+               <signed>Your obedient humble Servant, <hi>Charles Hickman.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:96922:4"/>
+            <head>A SERMON ON St. CAECILIA's Day.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. C. verſ. 1.</hi>
+                  </bibl>
+                  <p>O be joyful in the Lord all ye lands, ſerve the Lord with gladneſs, and come before his preſence with a ſong.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>JOY,</hi> and <hi>Gladneſs,</hi> and a <hi>Song,</hi> thoſe charm<g ref="char:EOLhyphen"/>ing Ingredients that make up the Heavenly Banquet in my Text, are ſuch agreeable Entertainments, that we are ready to fol<g ref="char:EOLhyphen"/>low them without the Formality of a Command,
+<pb n="2" facs="tcp:96922:5"/>
+and even without the Ceremony of an Invitation: and ſuch is the Entertainment which we all pro<g ref="char:EOLhyphen"/>poſe this Day.</p>
+            <p>But that there ſhould be ſuch <hi>joy in the Lord,</hi> ſuch <hi>Gladneſs in His Service,</hi> and <hi>His Preſence</hi> ſhould afford us Such an occaſion for <hi>a Song,</hi> is a Truth, which ſome perhaps will hardly confeſs, and others as hardly underſtand.</p>
+            <p>That Religion which teaches us to ſtand always upon our Guard, ſhould here give ſuch a looſe to our Inclinations, and bid us indulge our ſelves, is very ſtrange: that Devotion which ſends us to our own Cloſets, and our own Breaſts, and there holds us in a ſolemn grave Reſerve; ſhould call us out again, and bid us expatiate and recreate our Souls in the Fields of Gladneſs, and the flights of Joy, is ſtranger ſtill: Nay that the Preſence of God himſelf, which ſtrikes Mankind with an aw<g ref="char:EOLhyphen"/>ful Veneration, and dreadful Terrour, ſhould here be thought a proper Subject for Muſick, and a Song, is the ſtrangeſt thing of all. Theſe are ſuch Paradoxes, as a ſuperficial Examiner can ne<g ref="char:EOLhyphen"/>ver reconcile; ſuch Myſteries, as a ſenſual Man will never comprehend.</p>
+            <p>But how irreconcileable or myſterious ſoever they may ſeem, I hope to convince you, that there is no Myſtery in the thing at all; but that
+<pb n="3" facs="tcp:96922:5"/>
+the Duty which is enjoyn'd us in my Text, and which gave occaſion for our Meeting together this day, is not only a very pleaſing, but a very pra<g ref="char:EOLhyphen"/>cticable thing. and accordingly I ſhall ſhow in my following Diſcourſe,
+<list>
+                  <item>I. What it is to be <hi>Joyful in the Lord.</hi>
+                  </item>
+                  <item>II. How neceſſary it is to <hi>ſerve the Lord with Gladneſs.</hi>
+                  </item>
+                  <item>III. How decent and convenient it is to expreſs this Joy and Gladneſs <hi>with a Song.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>From the Firſt of theſe I intend to give ſome Directions how we ſhould behave our ſelves at a Religious Feaſt. the Second will teach us with what Chearfulneſs we ſhould come to Religious Worſhip. and the Third will ſhew us the Religi<g ref="char:EOLhyphen"/>ous Uſe that may be made of Muſick, in the So<g ref="char:EOLhyphen"/>lemnities of both our Worſhip and our Feaſts. Theſe are the three particular Occaſions of our Meeting here, and therefore they muſt all be hand<g ref="char:EOLhyphen"/>led particularly, but in ſhort. And</p>
+            <p n="1">1. Of the Firſt. <hi>O be joyful in the Lord.</hi> Some may admire perhaps why Joy ſhould be made the Subject of a Religious Command, and would hardly have expected to find ſuch a word as <hi>O be joyful</hi> in all the Word of God. 'Tis a Paſſion which is ſo deeply rooted in the Fleſh, and grows ſo quick upon our Spirit, that it ſhould ſeem a
+<pb n="4" facs="tcp:96922:6"/>
+more proper buſineſs for Religion to keep it down; tis ſo giddy a Diſcompoſure of Mind, and puts our Souls in ſo looſe a Habit, ſo vain a Dreſs, that to avoid this <hi>Vanity,</hi> ſome think it worth their while to run into <hi>Vexation of Spirit:</hi> and look upon a four, auſtere, ſupercilious Beha<g ref="char:EOLhyphen"/>viour, as the more religious Temper of the two.</p>
+            <p>But certainly 'tis a great Miſtake: and that it is ſo, we need only obſerve, that God himſelf appointed the Jewiſh Sabbath to be a day of Reſt, and the Chriſtian Sabbath to be a Feſtival; that ſo he might train us up, not always to the Fight<g ref="char:EOLhyphen"/>ings, but ſometimes to the Triumphs of Religion; and ſhew us the faireſt ſide of our Nature.</p>
+            <p>Indeed, the true Religion was deſign'd on pur<g ref="char:EOLhyphen"/>poſe to bring Man to his true Perfection, and ſhew him to the beſt advantage; and 'tis a cer<g ref="char:EOLhyphen"/>tain ſign of the true Religion, to do ſo: not to ſtop up the ears, nor put out the eyes of the Peo<g ref="char:EOLhyphen"/>ple; but to allow us the Uſe, and to encourage the Improvement of all our Faculties, and the Law<g ref="char:EOLhyphen"/>giver muſt always comply with the Methods of the Creator.</p>
+            <p>And accordingly our Religion, which is the trueſt, and the beſt, does not go about to extir<g ref="char:EOLhyphen"/>pate thoſe Paſſions which were planted in us by Nature, but only to graft upon them by Grace,
+<pb n="5" facs="tcp:96922:6"/>
+and make all our Paſſions and Affections, ſpiritual.</p>
+            <p>It teaches us that God is the Author of all our Good, and that nothing can be good for us, but what we enjoy by his Direction. That Heaven is the only Seat of Pleaſure, and no Pleaſure is either genuine or laſting, but what we derive from thence. And therefore if we would be <hi>joyful</hi> in<g ref="char:EOLhyphen"/>deed, we muſt be <hi>joyful in the Lord;</hi> we muſt make a prudent choice of ſuch Pleaſures, as are equally Beneficial both to our Soul, and Body; and make our Religion, and Enjoyment, go hand in hand.</p>
+            <p>'Tis this that makes our Feaſts to be Holy days indeed. And how eaſy a thing is this, to a virtu<g ref="char:EOLhyphen"/>ous well diſpoſed Mind, to a Man who has no unruly Luſts to be pamper'd, no greedy Appetites to be ſupply'd; but his deſire is only to ſatisfie his Nature, and recruit his Spirits; and in all the Bleſſings which he receives, he values not ſo much the Gift itſelf, as the Favour of him that gave it. 'Tis this that <hi>puts gladneſs into his Heart,</hi> more than the abounding of <hi>his corn and wine,</hi> and from this ſenſe of God's Goodneſs, in the Enjoyment of his Creatures, his Body is kindly nouriſh'd, and his Soul is doubly ſatisfied.</p>
+            <p>And thus He <hi>rejoyces in the Lord.</hi> Not that he is always calling <hi>Lord, Lord,</hi> at every Morſel:
+<pb n="6" facs="tcp:96922:7"/>
+and ſaying Grace to every Cup. This is profaning of both Religion, and the Feaſt. 'Tis taking the <hi>Lords name in vain,</hi> and his Creatures too. Surely a man that is well diſpos'd at firſt, may carry that Religious Temper, that regular Tenor of Mind, through one meal at leaſt, without ſcrewing up himſelf with continual Raptures, and freſh E<g ref="char:EOLhyphen"/>jaculations. Surely that Inſtrument is very bad, that muſt be new tun'd at every ſtrain.</p>
+            <p>This may ſuffice in ſhort, to ſhew how we are to celebrate a Religious Feaſt. And this may teach us the Difference, between the Joy of a godly, and a worldly Man. The one chooſes ſuch a Joy as is agreeable to his Nature, and at the ſame time, conſiſtent with his Religion: Such as his Reaſon recommends, and his God approves. a Joy that is not only pleaſing but laſting too: Whereas the other, looks no higher for his Satiſ<g ref="char:EOLhyphen"/>faction, than to his Senſes; and no farther, than to the preſent time; but takes up with ſuch Plea<g ref="char:EOLhyphen"/>ſure as comes next to hand, and if the Morſel is but ſweet as Hony in the mouth, he cares not though it turns to Gall in his ſtomach, and Poyſon in his blood. If his Senſes are but gratified, he cares not though it diſguſts his Reaſon and of<g ref="char:EOLhyphen"/>fends his God.</p>
+            <p>
+               <pb n="7" facs="tcp:96922:7"/>This is ſuch a folly as the Scripture very ele<g ref="char:EOLhyphen"/>gantly expreſſes <hi>by eating of ſour grapes.</hi> A wiſe man always waits till his Joys are ripe, and knows they are never good but in their proper Seaſon: but a fooliſh Sinner, no ſooner ſpies a Beauty on their outſide, but the Colour is inviting, and he muſt needs be taſting of the undigeſted Fruit, and all that he gets by it, is the turning of his Stomach, and ſetting of his Teeth an edge.</p>
+            <p>In a word, a Senſual Joy is always rude, and clamourous, and diſcompoſed, like ſounding Braſs, fit only to make a boiſtrous hideous Noiſe; till Religion comes in, to rectifie the Movement, and ſweeten the Tone, and make Muſick of that, which before was nothing but Confuſion.</p>
+            <p n="2">2. And now, when the Mind of Man is thus in Tune, and a delightful Air ſits upon his Thoughts, then is he fit for the lofty, and heavenly Exer<g ref="char:EOLhyphen"/>ciſes of Devotion; when he has learn'd how to be <hi>joyful in the Lord,</hi> then, and only then, is he fit to go to the holy Temple, and there to <hi>ſerve the Lord with Gladneſs.</hi> Which is the ſecond thing to be explain'd.</p>
+            <p>And this Expreſſion alſo, if it was not Cano<g ref="char:EOLhyphen"/>nical, I doubt not but it would be called Profane by many zealous Pretenders of our Age, who think that our God is to be ſerved, juſt as ſome
+<pb n="8" facs="tcp:96922:8"/>
+Idolaters worſhip theirs; with painful Convulſions of Body, and unnatural Diſtortions of Face, and all the diſmal Solemnities of a gloomy Soul, and a dejected Countenance.</p>
+            <p>But God be thanked, we are otherwiſe inſtru<g ref="char:EOLhyphen"/>cted in my Text, which teaches us, that theſe violent Strains of Devotion are as contrary to Re<g ref="char:EOLhyphen"/>ligion, as to Nature: and therefore commands us to <hi>ſerve the Lord with gladneſs.</hi> Indeed <hi>Gladneſs</hi> is the only Qualification which makes our <hi>Services</hi> acceptable unto God. 'Tis only a chearful, a free-will Offering, in which he delights; and our Worſhip is never ſo grateful unto Him, as when it is pleaſing to Our ſelves.</p>
+            <p>But to make a Drudgery of our Worſhip, and come as it were to do Penance in the Houſe of God, is diſhonouring of Him, and diſcrediting of his Service: to be dragg'd hither like the Beaſts of Sacrifice, with ſuch Unwillingneſs of Mind, and ſuch Aukwardneſs of Body, as betrays our Averſion to the work in hand, is very ominous indeed; 'tis loſing of our Time, and abuſing of our Maker.</p>
+            <p>When we come to this Houſe of God, we come, as Jacob calls it, to <hi>the gate of heaven,</hi> to the very borders of Paradiſe, to take a Proſpect of thoſe Glories, and Beauties, which adorn the
+<pb n="9" facs="tcp:96922:8"/>
+ſeat of the Almighty Creator of the World; and what is there to be ſeen, or heard, in Heaven, but Love, and Joy, and eternal Harmony? And what can this inſpire us with, but loving, and joyful, and harmonious Thoughts. Did we but come hither well prepar'd and well diſpos'd; ſo we ſhould be entertain'd, and ſo we ſhould be affected.</p>
+            <p>And what can all the Tent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Ungodlineſs, what can all the Diverſions of the World, afford us like to this? In the World, as the Prophet ſays, we <hi>follow after lovers which we cannot overtake;</hi> we <hi>ſeek</hi> for Enjoyments, which we cannot <hi>find;</hi> nothing but airy trivial Joys, meer Shadows of Pleaſure, and Bubbles of Delight, which, as we move towards them, ſtill fly before us, and if we could overtake them, yet they would turn to nothing. But here we find ſubſtantial Pleaſures, here we are filled with a<g ref="char:EOLhyphen"/>bundant Satisfaction, all that we can ask, and even more than we could think, and that only with asking for.</p>
+            <p>In the World we have but turbulent Joys at beſt, a mixture of Hopes, Fears, and imperfect Entertainments; nothing but Vanity and Vex<g ref="char:EOLhyphen"/>ation blended together: but here we have ge<g ref="char:EOLhyphen"/>nuine, cordial Pleaſures; ſpiritual, ſincere De<g ref="char:EOLhyphen"/>lights;
+<pb n="10" facs="tcp:96922:9"/>
+lights; ſuch immoveable, unalterable Joys, as all the Vanity of the World cannot give, and all the Vexation of it cannot take away.</p>
+            <p>If our Paſſions are unruly, and our Affections rebellious, and apt to raiſe diſturbances in our Breaſts; here we learn to ſubdue every muti<g ref="char:EOLhyphen"/>nous Thought, and ſilence every calmorous Inſurrection, and reduce our Souls to a perfect Calm.</p>
+            <p>If our Minds are devoted to ſenſual Pleaſures, and our Fleſh has unfortunately got the Aſcen<g ref="char:EOLhyphen"/>dant of our Spirit; here we ſhall find Pleaſures of a higher Strain, ſo powerful, and exalted, that like <hi>David</hi>'s Harp, they can charm away our former Paſſions, and diſpoſſeſs the evil Spirit.</p>
+            <p>With what Gladneſs then ſhould we come to the Houſe of God? and When we are there, how vigorous, and lively ſhould our Behaviour be? what have we to do with earthly Damps upon our Face, or cloudy Thoughts upon our Hearts, when we are contemplating of the Glories of God, the Beauty of Heaven, and the Pleaſures which he has there reſerved for us? <hi>Why art thou ſo full of heavineſs O my Soul, and why art thou ſo diſquieted within me?</hi>
+            </p>
+            <p>The Reaſon indeed is plain, our Affections
+<pb n="11" facs="tcp:96922:9" rendition="simple:additions"/>
+are engag'd another way; either they are ſordid, and worldly, and draw us downwards to the Earth: or elſe they are ſluggiſh, and unactive, and cannot mount towards Heaven: It is our Infirmity; but we muſt ſtrive againſt it. It is the Earthineſs of our Conſtitution that checks our Flight, and clogs our Devotion. But ſince Nature is two weak to diſcharge its Office, we muſt try to help it out by Art; and the only Art to help it by, is that which is preſcrib'd in the</p>
+            <p>Third part of my text, If we would <hi>ſerve the Lord with gladneſs,</hi> as we ought, we muſt <hi>Come before his preſence with a Song.</hi>
+            </p>
+            <p>And here I am to prove the Decency, and Uſefulneſs of Muſick, in the Solemnities of our Religious Worſhip. Only, by the way, we muſt needs complain of the Hardſhip, which the Perverſneſs of this Age has put upon us, in requiring us to prove a thing, ſo manifeſt, that there is nothing in nature more manifeſt, to prove it by.</p>
+            <p>That God is to be worſhip'd with ſolemn Muſick, is ſo ancient, and ſo univerſal an Opi<g ref="char:EOLhyphen"/>nion, that it may well be look'd upon as one of the prime Notions of a Rational Soul, one of the fundamental Laws of Nature, which,
+<pb n="12" facs="tcp:96922:10"/>
+like the Worſhip of God itſelf, we receive not by Inſtitution, but by Inſtinct: it was not inculcated into us by Education, but we Suck'd it in at our very Birth, or rather it was Infus'd into us at our Creation.</p>
+            <p>And as the Opinion, ſo the Practice of it is Univerſal too. And therefore the Pſalmiſt directs his Precept in my Text, not to the peculiar Church of God, but to <hi>all lands, to ſerve the Lord with gladneſs and come before his preſence with a ſong.</hi>
+            </p>
+            <p>Indeed, there never was any Land ſo barbarous, or any People ſo polite, (except ſome few Pre<g ref="char:EOLhyphen"/>tenders in theſe laſt, and worſt of times) but have always approach'd their Gods with the Solemnity of Muſick, and expreſt their Devo<g ref="char:EOLhyphen"/>tion with a Song; and wherever Muſick goes out of faſhion, there we may boldly pronounce, that Devotion alſo is growing out of date.</p>
+            <p>Nay the wiſe ancient Heathens declar'd, that Muſick was an Invention of the Gods, and beſtow'd on Men, for this very purpoſe, to adorn their Religious Worſhip, and inſpire them with pious exalted, devout Affections; not to gratifie their itching Ears; but to refine their Notions, abſtract their Thoughts, and prepare their Souls for Hea<g ref="char:EOLhyphen"/>venly Contemplations.</p>
+            <p>
+               <pb n="13" facs="tcp:96922:10"/>Amongſt the reſt, I cannot but obſerve, that the <hi>Athenians,</hi> the wiſeſt of them all, Men of the moſt refin'd Wit, and the ſevereſt Judgment, held Muſick in the greateſt Veneration, and religi<g ref="char:EOLhyphen"/>ouſly recommended it to their People; though they were ſo ſtrict, ſo nice Obſervers of the Rules of Reaſon, that they baniſhed Orators out of their City, for fear the Affections of Men ſhould be wrought upon to overpoiſe their Judgment, in temporal Affairs: yet Muſicians were always encourag'd, and had in Honour, to ſhew, that in Divine Offices, their Affections could never be rais'd too high. And if we have not the ſame reliſh with them in point of Devotion, I fear it is not a ſign that our Reaſon is more refin'd than theirs, but rather that our affections Are more Groſs.</p>
+            <p>As for the Jews, the Practice of their Church is too well known to be conteſted. There the Honour of Religious Muſick ſtands, <hi>like the Law and the Teſtimony,</hi> upon the Pillars of Truth it<g ref="char:EOLhyphen"/>ſelf, ſupported by Divine Authority, and atte<g ref="char:EOLhyphen"/>ſted by infallible Records. There we find, Songs of Gods one appointment; and Muſick after Gods own heart, and the Praiſes of our Maker always celebrated in harmonious Meaſures, and melodious Sounds.</p>
+            <p>
+               <pb n="14" facs="tcp:96922:11"/>There we meet with Muſitians inſpir'd from Heaven, ſuch Conſorts as the Holy Ghoſt vouch<g ref="char:EOLhyphen"/>ſafes to teach, and Angels themſelves delight to hear. What Raptures of Divine Eloquence, what glorious Patterns of Devotion, did that Golden Age of Muſick produce. How has the Holy Church throughout all the World, liv'd upon that Treaſure of Anthems, wherewith the glorious Company of Apoſtles, and the the goodly Fellow<g ref="char:EOLhyphen"/>ſhip of Prophets, praiſed the Lord: and to this day, we all refreſh our Devotion with thoſe very Airs, which breath upon us from theſe illuminated Compoſitions.</p>
+            <p>By their Inſpirations we alſo are inſpir'd; and as long as there is any Devotion remaining in the World, ſo long the Songs of <hi>Moſes</hi> and the Harp of <hi>David</hi> will be of bleſſed Memory, to fill the Mouths and rejoyce the Hearts of Men.</p>
+            <p>'Tis true, the Harp and the Organ were an In<g ref="char:EOLhyphen"/>vention of one of the Sons of <hi>Cain,</hi> an unſancti<g ref="char:EOLhyphen"/>fied, ungodly Race: but yet God conſecrated them to a Religious Uſe, and made them Inſtru<g ref="char:EOLhyphen"/>ments of much Honour to his Church, and much Devotion in his People; and if we are not affe<g ref="char:EOLhyphen"/>cted with thoſe lofty Strains of Harmony which
+<pb n="15" facs="tcp:96922:11"/>
+they produce, it is not a ſign that our Religion is too high to ſtand in need of ſuch Helps; but that our Affections are too low to be capable of ſuch Improvements. Doubtleſs if our Souls were as pious as <hi>David</hi>'s, they would be as melodious too.</p>
+            <p>We talk much of a <hi>rational way of Worſhip;</hi> and 'tis fit indeed that <hi>Reaſon</hi> ſhould direct the Way, but the <hi>Worſhip</hi> itſelf is an Act, not of our <hi>Reaſon</hi> but our <hi>Affections:</hi> 'Tis the workings of an exalted Love; the out-goings of an inflam'd Deſire; the breathings of a pious Soul, in the extaſies of his Joy and Admiration.</p>
+            <p>Theſe are the noble Springs of our Devotion, the lively Elements that compoſe our Worſhip; and theſe are Tenderneſſes of our Nature, that lie not in the Head, but the Heart of Man; and there lie too deep to be reached, and too fine to be wrought upon by ſo groſs a Faculty as Reaſon is.</p>
+            <p>But there is a Power in Muſick that can reach them all, and touch them to the very quick: There is ſuch a Charm in well compos'd, well a<g ref="char:EOLhyphen"/>nimated Sounds, as muſters up all our Paſſions, and commands all our Affections to pay Homage to it; and no ſenſible Soul can withſtand the Summons.</p>
+            <p>The Philoſopher with his Gravity, may talk of our Paſſions, but never Move them; the O<g ref="char:EOLhyphen"/>rator
+<pb n="16" facs="tcp:96922:12"/>
+with his Addreſs, may Move, but never Pleaſe them; and the Poet, with his Accuracy, may pleaſe, but yet not Command them: all theſe Artiſts, operate upon our Hearts, but at a Di<g ref="char:EOLhyphen"/>ſtance; only the Muſician gets within us, and manages our paſſions with an Arbitrary Power. When the Lute and Harp are touch'd with a skilful hand, it ſtrikes upon the very Soul of Man, and by an immediate Sympathy, I had almoſt ſaid, by an immediate Contact, makes his Heart-ſtrings leap for joy.</p>
+            <p>Nay, this is a Charm, that Works not only upon our Affections, but upon our Underſtanding too; enlivens the Head, as well as the Heart, of Man, and opens our Ears, and our Eyes at at once. When our Thoughts are involv'd in the dreggs of Matter, and our Minds are ob<g ref="char:EOLhyphen"/>ſcur'd with the drowſineſs, and heavineſs of Senſe; Muſick rouſes up our Soul, and puts our Thoughts in motion; our very Reaſon <hi>awakens with the lute and harp;</hi> and the Song, like ſome Divine Inſpiration, calls up all our brighter Faculties to diſcharge their Office. When <hi>David</hi> takes his Harp in hand he ſummons all the powers of his Nature, to joyn in the Conſort, and to bear their Parts. <hi>Praiſe the Lord, O my ſoul, and all that is within me praiſe his holy name.</hi>
+            </p>
+            <p>
+               <pb n="17" facs="tcp:96922:12"/>'Tis this that fits us, not only for the Opera<g ref="char:EOLhyphen"/>tions of Reaſon, but is an Inlet alſo to Divine Viſions, and Revelations. It carries ſuch ex<g ref="char:EOLhyphen"/>taſies, and Raptures, with it, as elevate the Soul of man into a higher Region, teach him Seraphical Flights, and give him a clearer Inſight into the things above.</p>
+            <p>Thus <hi>Iſaiah</hi> was inſtituted into his Prophetick Office, by a Choir of Angels, Singing, <hi>Holy, holy, holy Lord God of hosts the whole earth is full of his glory</hi> Iſ. 6.3.</p>
+            <p>Thus <hi>Saul</hi> alſo was made a Prophet, by a Conſort of Tabrets, and Pipes, and Harps; and ſooner heard the Symphony, but <hi>the Spirit of God came upon him and he became another Man</hi> 1. Sam. 10.10.</p>
+            <p>Thus <hi>Eliſha</hi> alſo out of an Averſion which he had to the King of <hi>Iſrael,</hi> had no heart to ſpeak before him of things to come, the Prophetick Spirit did not move him; till he call'd for Muſick, and when that play'd, then <hi>the hand of the Lord did come upon him</hi> and he prophecy'd. 2. Kings. 3.15.</p>
+            <p>So inſtrumental is Muſick, to all the uſes of Religion, that it looks as if there could be no Religion without it. 'Tis a Pleaſure to the great<g ref="char:EOLhyphen"/>eſt Saint; and has an Influence upon the graveſt Prophet; 'tis an Employment for a bleſſed Angel,
+<pb n="18" facs="tcp:96922:13"/>
+and an Entertainment to God himſelf. 'Tis the Life of Heaven, and the Joy of all the ends of the Earth. In a word, 'tis ſo Humane an Ex<g ref="char:EOLhyphen"/>cellency, that 'tis an Offence againſt Nature to ſuppreſs it; and ſo Divine an Accompliſhment, that 'tis almoſt Blaſphemy to diſparage it.</p>
+            <p>
+               <hi>God has given me a Tongue,</hi> ſaith the wiſe man, <hi>and I will praiſe him therewith;</hi> and if an <hi>eloquent tongue</hi> ows this Tribute to God that gave it; how much more ſhould we praiſe him with the Fruits of a <hi>Muſical heart</hi> which is a nobler Faculty; and more proper to praiſe him with.</p>
+            <p>I do not ſay with the Heathen Poet, that God loves not thoſe who love not Muſick; nor with the Jewiſh Doctors, that the Spirit of God reſts not upon a Melancholy Soul: but this we may ſay, that a melodious Conſtitution of Mind is one of the greateſt Felicities of our Natures and one of the kindeſt Gifts of God, and there<g ref="char:EOLhyphen"/>fore we ought to praiſe him for it, and to praiſe him with it too.</p>
+            <p>For theſe reaſons, the practice of Muſick was retain'd in the Chriſtian Church; and all the account which we have of the Primitive Wor<g ref="char:EOLhyphen"/>ſhip is, that it conſiſted chiefly of Hymns, and Songs.</p>
+            <p>
+               <pb n="19" facs="tcp:96922:13"/>Tis true, that the uſe of Inſtrumental Muſick in the Church, was ſomething of latter date: and ſo was the uſe of appropriated Churches too, and there was too melancholy a reaſon for them both. But certainly, that which was always ex<g ref="char:EOLhyphen"/>pedient; and ſometimes commanded; but never forbidden; tho intermitted a while, by the Neceſſity of the Times, can never be thought unlawful.</p>
+            <p>The only Argument againſt it is, that thoſe Inſtruments are not fit to be apply'd to the Uſes of Religion, becauſe they are the common En<g ref="char:EOLhyphen"/>tertainment at our Feaſts, and in this caſe our Adverſaries are willing to allow, that what is <hi>Common,</hi> is <hi>prophane.</hi>
+            </p>
+            <p>But are not our Feaſts conſiſtent with our Re<g ref="char:EOLhyphen"/>ligion? If they are not, in Gods name, let us not curtail our Religion, but forbear our Feaſts. But if they are, why is not the Muſick conſiſt<g ref="char:EOLhyphen"/>ent too? Or why is it more indecent to uſe the ſame Inſtruments, than it is to wear the ſame Apparel, in the Church as in the Dining-room? However this is a very improper Objection in the mouths of thoſe that make it, who, according as their occaſi<g ref="char:EOLhyphen"/>ons ſerve, uſe the ſame place promiſcuouſly, ſometimes for a Dining-room and ſometimes for a Church.</p>
+            <p>
+               <pb n="20" facs="tcp:96922:14"/>The wiſe Son of <hi>Sirach</hi> compares the Memory of a Godly King, to <hi>Muſick at a Banquet of Wine;</hi> a moſt lively elegant Expreſſion, and yet the Com<g ref="char:EOLhyphen"/>pariſon is both impious and abſurd, unleſs we al<g ref="char:EOLhyphen"/>low that a Banquet of Wine may be a very God<g ref="char:EOLhyphen"/>ly Inſtitution; and if ſo, why ſhould it be thought to profane that Muſick, which is introduc'd only to make it more ſolemn and more godly ſtill.</p>
+            <p>But 'tis no wonder if ſuch Arguments as theſe do gain credit, in ſuch an Age of Diſcord as this in which we live; when the Minds of Men are ſet in a direct Antipathy to one another, and no Reaſons can make them cloſe. But yet Muſick one would think might reconcile them; if they had <hi>Ears to hear,</hi> their Hearts would be affected too, and they could no longer hold out in this harſh, this jarring, ungrateful Diſtance, but would fall in with the general Tone, and join in a friend<g ref="char:EOLhyphen"/>ly Conſort with their Brethren.</p>
+            <p>The Power of Muſick has done a greater Mi<g ref="char:EOLhyphen"/>racle than this, when nothing elſe could do it. When the <hi>Lacedemonians,</hi> the auſtereſt, obſtinateſt Men alive, were divided among themſelves, and thoſe Diviſions grew up into Civil Wars; the Wiſe Oracle, to compoſe their Differences, ſent them to hear a famous Muſician play upon his Harp: and when they did ſo, they embrac'd one
+<pb n="21" facs="tcp:96922:14"/>
+another with Tears in their Eyes, and returned perfect Friends.</p>
+            <p>If our Oracles now, had but as much Credit; I doubt not but our Muſicians have as much Art; and then no doubt but the thing would ſoon be done: could we but perſwade Men to the Expe<g ref="char:EOLhyphen"/>riment, they would certainly work the Cure.</p>
+            <p>But I am ſenſible that 'tis Loſs of time for me to ſpeak longer in the Praiſe of Muſick, which, when I have done, will ſpeak much better for it ſelf; will convince thoſe whom I can hardly per<g ref="char:EOLhyphen"/>ſwade, and give you a ſenſible Demonſtration of thoſe Truths, whereof I can only offer you ſome ſlender Proofs.</p>
+            <p>And therefore I ſhall only add (for a Con<g ref="char:EOLhyphen"/>cluſion) that we muſt compoſe our ſelves to hear it, with heavenly, abſtracted, devoted Minds: For there is ſomething, in Religious Muſick, ſo Divine; ſomething ſo like the Joys of Heaven, that the Bleſſed above do not diſdain to hold Commu<g ref="char:EOLhyphen"/>nion with us, in theſe Exerciſes of our Devotion.</p>
+            <p>Nay 'tis by the Help of our Devotion, that we train up our Souls to the Joys of Heaven, and qualifie our ſelves to bear a part in thoſe Halleluiahs which are the eternal Entertainment of the Saints. If then we hope to join in Conſort with them at the Throne of God, here we muſt begin to pra<g ref="char:EOLhyphen"/>ctice
+<pb n="22" facs="tcp:96922:15"/>
+at his Footſtool; here we muſt tune our Souls and make them fit Inſtruments for the Praiſes of our Maker: Here we muſt learn the Grounds of that Divine Muſick, otherwiſe we ſhould but make Diſcord in Heaven itſelf, and muſt be ſent away to another place, where inſtead of <hi>Joy,</hi> and <hi>Gladneſs,</hi> and a <hi>Song,</hi> there is nothing but <hi>weeping, and howling, and gnaſhing of teeth.</hi>
+            </p>
+            <p>Therefore that we may eſcape this dreadful Doom, let us come duly and devoutly to the Houſe of God, and here, at his Footſtool, let us, with chearful Voices and unfeigned Hearts, Sing <hi>Glory and Honour, and Power to Him that ſitteth on the Throne, to God the Father, God the Son, and God the Holy Ghoſt.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:96922:15"/>
+            <head>Sermons Publiſhed by the ſame Author, and Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhops-Head</hi> in St. <hi>Paul</hi>'s Church-yard.</head>
+            <list>
+               <item>A Sermon Preached before the Queen at <hi>White<g ref="char:EOLhyphen"/>hall,</hi> on <hi>Sunday</hi> the 26th. of <hi>October,</hi> 1690. on <hi>Pſalm</hi> 4.4.</item>
+               <item>A Sermon Preached before the Honourable Houſe of Commons, at St. <hi>Margaret Weſtminſter,</hi> on <hi>Sunday</hi> the 19th. of <hi>October,</hi> 1690. being the Thankſgiving-Day, for the Wonderful Preſervati<g ref="char:EOLhyphen"/>on of his Majeſty's Perſon. <hi>Iſaiah</hi> 60.10.</item>
+               <item>A Sermon Preached before the Queen at <hi>White<g ref="char:EOLhyphen"/>hall,</hi> on <hi>Sunday October</hi> 2d. 1692. on <hi>Deut.</hi> 30.15.</item>
+               <item>A Sermon Preached before the Queen at <hi>White<g ref="char:EOLhyphen"/>hall,</hi> on <hi>Wedneſday March</hi> the 15. 1692/3; on <hi>Phil.</hi> 4.11.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
